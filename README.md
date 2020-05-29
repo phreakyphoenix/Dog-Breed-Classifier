@@ -1,10 +1,11 @@
 # Dog-Breed-Classifier-DNLD-P2
-Two Dog Breed Classifiers; one made from scratch and another from pretrained VGG16 
+Two Dog Breed Classifiers; one made from scratch and another from pretrained VGG16, made with :heart: in Pytorch.\
+Do :star2: the repo and show some love.
 
-To check out the Project, use these links:
-1. HTML : 
-2. IPYNB :
-3. Markdown: 
+To check out the Project, use any of these links:
+1. [Markdown](https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2/tree/master/Project_in_markdown) 
+2. [IPYNB](https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2/blob/master/dog_app.ipynb)
+3. [HTML](https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2/blob/master/dog_app.html)  
 
 [//]: # (Image References)
 
@@ -61,3 +62,5 @@ You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money
 ## Evaluation
 
 Your project will be reviewed by a Udacity reviewer against the CNN project rubric.  Review this rubric thoroughly and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.
+
+LICENSE: GPLv3
