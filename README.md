@@ -1,4 +1,5 @@
-# Dog-Breed-Classifier-DNLD-P2
+# Dog Breed Classifier
+### Project 2 in Udacity Deep Learning Nanodegree
 Two Dog Breed Classifiers; one made from scratch and another from pretrained VGG16, made with :heart: in Pytorch.\
 Do :star2: the repo and show some love.
 
