@@ -154,9 +154,6 @@ from tqdm import tqdm
 
 human_files_short = human_files[:100]
 dog_files_short = dog_files[:100]
-
-#-#-# Do NOT modify the code above this line. #-#-#
-
 ## TODO: Test the performance of the face_detector algorithm 
 print (str(sum([face_detector(picture) for picture in human_files_short]))+'% human pictures have humans')
 print (str(sum([face_detector(picture) for picture in dog_files_short]))+'% dog pictures have humans')
@@ -190,13 +187,6 @@ for picture in dog_files_short:
 
 
 We suggest the face detector from OpenCV as a potential way to detect human images in your algorithm, but you are free to explore other approaches, especially approaches that make use of deep learning :).  Please use the code cell below to design and test your own face detection algorithm.  If you decide to pursue this _optional_ task, report performance on `human_files_short` and `dog_files_short`.
-
-
-```python
-### (Optional) 
-### TODO: Test performance of anotherface detection algorithm.
-### Feel free to use as many code cells as needed.
-```
 
 ---
 <a id='step2'></a>
@@ -311,13 +301,6 @@ print (str(sum([dog_detector(picture) for picture in dog_files_short]))+'% dog p
 
 
 We suggest VGG-16 as a potential network to detect dog images in your algorithm, but you are free to explore other pre-trained networks (such as [Inception-v3](http://pytorch.org/docs/master/torchvision/models.html#inception-v3), [ResNet-50](http://pytorch.org/docs/master/torchvision/models.html#id3), etc).  Please use the code cell below to test other pre-trained PyTorch models.  If you decide to pursue this _optional_ task, report performance on `human_files_short` and `dog_files_short`.
-
-
-```python
-### (Optional) 
-### TODO: Report the performance of another pre-trained network.
-### Feel free to use as many code cells as needed.
-```
 
 ---
 <a id='step3'></a>
