@@ -62,5 +62,3 @@ You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money
 ## Evaluation
 
 Your project will be reviewed by a Udacity reviewer against the CNN project rubric.  Review this rubric thoroughly and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.
-
-LICENSE: GPLv3
