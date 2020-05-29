@@ -4,9 +4,9 @@ Two Dog Breed Classifiers; one made from scratch and another from pretrained VGG
 Do :star2: the repo and show some love.
 
 To check out the Project, use any of these links:
-1. [Markdown](https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2/tree/master/Project_in_markdown) 
-2. [IPYNB](https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2/blob/master/dog_app.ipynb)
-3. [HTML](https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2/blob/master/dog_app.html)  
+1. [Markdown](https://github.com/phreakyphoenix/Dog-Breed-Classifier/tree/master/Project_in_markdown) 
+2. [IPYNB](https://github.com/phreakyphoenix/Dog-Breed-Classifier/blob/master/dog_app.ipynb)
+3. [HTML](https://github.com/phreakyphoenix/Dog-Breed-Classifier/blob/master/dog_app.html)  
 
 [//]: # (Image References)
 
@@ -31,8 +31,8 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2.git
-		cd Dog-Breed-Classifier-DNLD-P2
+		git clone https://github.com/phreakyphoenix/Dog-Breed-Classifier.git
+		cd Dog-Breed-Classifier
 	```
     
 __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-download the datasets in steps 2 and 3 - they can be found in the `/data` folder as noted within the workspace Jupyter notebook.
