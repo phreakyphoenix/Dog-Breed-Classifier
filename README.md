@@ -30,8 +30,8 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 1. Clone the repository and navigate to the downloaded folder.
 	
 	```	
-		git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-		cd deep-learning-v2-pytorch/project-dog-classification
+		git clone https://github.com/phreakyphoenix/Dog-Breed-Classifier-DNLD-P2.git
+		cd Dog-Breed-Classifier-DNLD-P2
 	```
     
 __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-download the datasets in steps 2 and 3 - they can be found in the `/data` folder as noted within the workspace Jupyter notebook.
